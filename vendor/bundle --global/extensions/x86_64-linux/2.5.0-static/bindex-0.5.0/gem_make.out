@@ -1,0 +1,15 @@
+current directory: /var/www/html/sample-game/vendor/bundle --global/gems/bindex-0.5.0/ext/bindex
+/home/monsieur/.rbenv/versions/2.5.0-dev/bin/ruby -r ./siteconf20170826-15544-1apeywm.rb extconf.rb
+creating Makefile
+
+current directory: /var/www/html/sample-game/vendor/bundle --global/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /var/www/html/sample-game/vendor/bundle --global/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /var/www/html/sample-game/vendor/bundle --global/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20170826-15544-ndbgxh/bindex
